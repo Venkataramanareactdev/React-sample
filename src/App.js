@@ -4,7 +4,6 @@ import Navbar from './component/Navbar';
 import Home from './pagess/Home';
 import About from './pagess/About';
 import Contact from './pagess/Contact';
-
 function App() {
   return (
    <BrowserRouter>
